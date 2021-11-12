@@ -1,2 +1,9 @@
+.idea
+.vscode
+build
+/node_modules
+/.pnp
+.pnp.js
+package-lock.json
 npm-debug.log
 node_modules
